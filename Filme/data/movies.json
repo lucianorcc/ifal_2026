@@ -1,0 +1,134 @@
+[
+  {
+    "id": "20260827143933",
+    "title": "O Poderoso Chefão",
+    "description": "A saga da família Corleone",
+    "duration_minutes": 175,
+    "genre": "Drama",
+    "release_date": "1972-03-24",
+    "rating": 9.2,
+    "created_at": "2026-08-27T14:39:33.856352",
+    "updated_at": "2026-08-27T14:39:33.856352"
+  },
+  {
+    "id": "20260827143933",
+    "title": "Matrix",
+    "description": "Realidade virtual e revolução",
+    "duration_minutes": 136,
+    "genre": "Ficção Científica",
+    "release_date": "1999-03-31",
+    "rating": 8.7,
+    "created_at": "2026-08-27T14:39:33.858153",
+    "updated_at": "2026-08-27T14:39:33.858153"
+  },
+  {
+    "id": "20260827143933",
+    "title": "Vingadores: Ultimato",
+    "description": "A batalha final dos Vingadores",
+    "duration_minutes": 181,
+    "genre": "Ação",
+    "release_date": "2019-04-26",
+    "rating": 8.4,
+    "created_at": "2026-08-27T14:39:33.858717",
+    "updated_at": "2026-08-27T14:39:33.858717"
+  },
+    {
+    "id": "20260827144102",
+    "title": "Horizonte Perdido",
+    "description": "Uma jornada épica através de mundos paralelos em busca da verdade",
+    "duration_minutes": 145,
+    "genre": "Aventura",
+    "release_date": "2026-09-15",
+    "rating": 7.8,
+    "created_at": "2026-08-27T14:41:02.123456",
+    "updated_at": "2026-08-27T14:41:02.123456"
+  },
+  {
+    "id": "20260827144128",
+    "title": "Sombras do Passado",
+    "description": "Um detetive investiga um caso que o conecta ao seu próprio passado obscuro",
+    "duration_minutes": 110,
+    "genre": "Suspense",
+    "release_date": "2026-10-02",
+    "rating": 8.3,
+    "created_at": "2026-08-27T14:41:28.456789",
+    "updated_at": "2026-08-27T14:41:28.456789"
+  },
+  {
+    "id": "20260827144155",
+    "title": "Corações em Chamas",
+    "description": "Um romance proibido durante a guerra que desafia todas as convenções",
+    "duration_minutes": 125,
+    "genre": "Romance",
+    "release_date": "2026-11-20",
+    "rating": 7.5,
+    "created_at": "2026-08-27T14:41:55.789012",
+    "updated_at": "2026-08-27T14:41:55.789012"
+  },
+  {
+    "id": "20260827144218",
+    "title": "O Último Guardião",
+    "description": "O último protetor de uma antiga ordem deve enfrentar o mal que despertou",
+    "duration_minutes": 155,
+    "genre": "Fantasia",
+    "release_date": "2026-12-11",
+    "rating": 8.7,
+    "created_at": "2026-08-27T14:42:18.345678",
+    "updated_at": "2026-08-27T14:42:18.345678"
+  },
+  {
+    "id": "20260827144245",
+    "title": "Código Silencioso",
+    "description": "Uma hacker descobre uma conspiração global que ameaça a privacidade de todos",
+    "duration_minutes": 118,
+    "genre": "Tecnologia",
+    "release_date": "2027-01-08",
+    "rating": 7.9,
+    "created_at": "2026-08-27T14:42:45.901234",
+    "updated_at": "2026-08-27T14:42:45.901234"
+  },
+  {
+    "id": "20260827144310",
+    "title": "Risadas Garantidas",
+    "description": "Uma comédia hilariante sobre um grupo de amigos em situações absurdas",
+    "duration_minutes": 95,
+    "genre": "Comédia",
+    "release_date": "2027-02-14",
+    "rating": 7.2,
+    "created_at": "2026-08-27T14:43:10.567890",
+    "updated_at": "2026-08-27T14:43:10.567890"
+  },
+  {
+    "id": "20260827144338",
+    "title": "Fúria nas Estradas",
+    "description": "Corridas ilegais, adrenalina e rivalidade em alta velocidade",
+    "duration_minutes": 105,
+    "genre": "Ação",
+    "release_date": "2027-03-19",
+    "rating": 7.6,
+    "created_at": "2026-08-27T14:43:38.234567",
+    "updated_at": "2026-08-27T14:43:38.234567"
+  },
+  {
+    "id": "20260827144405",
+    "title": "Mistério no Vale",
+    "description": "Fenômenos inexplicáveis assombram uma pequena cidade isolada",
+    "duration_minutes": 130,
+    "genre": "Terror",
+    "release_date": "2027-04-23",
+    "rating": 8.1,
+    "created_at": "2026-08-27T14:44:05.890123",
+    "updated_at": "2026-08-27T14:44:05.890123"
+  },
+  {
+    "id": "20260827144432",
+    "title": "Entre Estrelas",
+    "description": "Uma missão espacial descobre vida inteligente e muda o destino da humanidade",
+    "duration_minutes": 165,
+    "genre": "Ficção Científica",
+    "release_date": "2027-05-28",
+    "rating": 9.0,
+    "created_at": "2026-08-27T14:44:32.456789",
+    "updated_at": "2026-08-27T14:44:32.456789"
+  }
+]
