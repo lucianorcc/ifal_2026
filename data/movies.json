@@ -1,0 +1,35 @@
+[
+  {
+    "id": "20260827205036",
+    "title": "O Poderoso Chefão",
+    "description": "A saga da família Corleone",
+    "duration_minutes": 175,
+    "genre": "Drama",
+    "release_date": "1972-03-24",
+    "rating": 9.2,
+    "created_at": "2026-08-27T20:50:36.271735",
+    "updated_at": "2026-08-27T20:50:36.271735"
+  },
+  {
+    "id": "20260827205036",
+    "title": "Matrix",
+    "description": "Realidade virtual e revolução",
+    "duration_minutes": 136,
+    "genre": "Ficção Científica",
+    "release_date": "1999-03-31",
+    "rating": 8.7,
+    "created_at": "2026-08-27T20:50:36.272339",
+    "updated_at": "2026-08-27T20:50:36.272339"
+  },
+  {
+    "id": "20260827205036",
+    "title": "Vingadores: Ultimato",
+    "description": "A batalha final dos Vingadores",
+    "duration_minutes": 181,
+    "genre": "Ação",
+    "release_date": "2019-04-26",
+    "rating": 8.4,
+    "created_at": "2026-08-27T20:50:36.273199",
+    "updated_at": "2026-08-27T20:50:36.273199"
+  }
+]
